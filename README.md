@@ -1,0 +1,1 @@
+Matlab codes for safety-critical navigation of polytope agents in polytope environments based on a single CBF candidate. These include codes for the numerical simulation of four reach-avoid problems with point and polytope agents, static and dynamic environments, in 2D and 3D.
